@@ -1,0 +1,17 @@
+.wrapper {
+  @apply bg-neutral-800 p-2 shadow-md;
+  
+}
+
+.titulo{
+  color: #ffffff;
+  font-size: 4.25rem;
+  line-height: 1.10;
+  text-align: center;
+  margin-top: -200px;
+ }
+
+ .logo{
+   text-align:left;
+  margin-top: 0px;
+ }
